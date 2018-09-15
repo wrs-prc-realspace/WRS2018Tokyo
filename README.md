@@ -1,9 +1,9 @@
 # WRS Personal Robot Challenge (Real Space) 2018 Tokyo
 
-Rulebook 2018  
+### Rulebook 2018  
 https://github.com/wrs-prc-realspace/RuleBook2018
 
-Schedules  
+### Schedules  
 * Oct 15-16 Team Setup
 * Oct 17 AM "Bring Me", PM "Bring Me"
 * Oct 18 AM "Bring Me", PM "Tidy Up Here"
@@ -12,8 +12,8 @@ Schedules
 * Oct 21 AM Exhibition, PM Awards Ceremony
 * Oct 22 Symposium
 
-Known Objects  
+### Known Objects  
 (url)
 
-Area Maps and Locations  
+### Area Maps and Locations  
 (url)
