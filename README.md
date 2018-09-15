@@ -13,7 +13,7 @@ https://github.com/wrs-prc-realspace/RuleBook2018
 * Oct 22 Symposium
 
 ### Known Objects  
-(url)
+https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/known_objects.md
 
 ### Area Maps and Locations  
 (url)
