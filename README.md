@@ -11,7 +11,7 @@ https://github.com/wrs-prc-realspace/RuleBook2018
 * Oct 20 Final
 * Oct 21 AM Exhibition, PM Awards Ceremony
 * Oct 22 Symposium
-* Team Leader Meeting everyday 18:00-19:00
+* Every day 18:00-19:00 Team Leader Meeting
 
 ### Known Objects  
 https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/known_objects.md
