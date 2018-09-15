@@ -1,4 +1,4 @@
-# WRS Parther Robot Challenge (Real Space) 2018 Tokyo
+# WRS Partner Robot Challenge (Real Space) 2018 Tokyo
 
 ### Rulebook 2018  
 https://github.com/wrs-prc-realspace/RuleBook2018
