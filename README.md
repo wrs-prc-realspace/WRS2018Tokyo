@@ -1,13 +1,13 @@
 # WRS Personal Robot Challenge (Real Space) 2018 Tokyo
 
-Rulebook 2018
+Rulebook 2018  
 (url)
 
-Schedules
+Schedules  
 (url)
 
-Known Objects
+Known Objects  
 (url)
 
-Area Maps and Locations
+Area Maps and Locations  
 (url)
