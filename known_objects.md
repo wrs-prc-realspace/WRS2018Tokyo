@@ -2,26 +2,26 @@
 
 ### Name list of known objects (children room)
 Category: Plush doll  
-* Dog plush toy
-* Rabbit plush toy
-* Hedgehog plush toy
-Category: Postcard
-* Object 4
-* Object 5
-* Object 6
-Category: Toy car
-* Object 7
-* Object 8
-* Object 9
-Category: Sound toy
-* Object 10
-* Object 11
-* Object 12
-Category: Block
-* Object 13
-* Object 14
-* Object 15
+* Dog plush toy  
+* Rabbit plush toy  
+* Hedgehog plush toy  
+Category: Postcard  
+* Postcard with moon image  
+* Postcard with temple image  
+* Postcard with waterfall image  
+Category: Toy car  
+* Bus toy car  
+* Fire engine toy car  
+* Police toy car  
+Category: Sound toy  
+* Whistle sound toy  
+* Shaker sound toy  
+* Horn sound toy  
+Category: Block  
+* Cube block  
+* Triangular block  
+* Cylinder block  
 
 ### Name list of known objects (dining room, kitchen and living room)
-* Object 1
-* Object 2
+* Object 1  
+* Object 2  
