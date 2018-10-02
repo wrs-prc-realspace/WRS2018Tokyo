@@ -1,14 +1,17 @@
 # WRS Partner Robot Challenge 2018 Tokyo
 
-### Name list of known objects (children room)
-Category: Plush doll  
+## Name list of known objects (children room)
+
+### Category: Plush doll  
 * Dog plush toy  
 * Rabbit plush toy  
 * Hedgehog plush toy  
-Category: Postcard  
+
+### Category: Postcard  
 * Postcard with moon image  
 * Postcard with temple image  
 * Postcard with waterfall image  
+
 Category: Toy car  
 * Bus toy car  
 * Fire engine toy car  
