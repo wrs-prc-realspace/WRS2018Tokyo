@@ -12,19 +12,22 @@
 * Postcard with temple image  
 * Postcard with waterfall image  
 
-Category: Toy car  
+### Category: Toy car  
 * Bus toy car  
 * Fire engine toy car  
 * Police toy car  
-Category: Sound toy  
+
+### Category: Sound toy  
 * Whistle sound toy  
 * Shaker sound toy  
 * Horn sound toy  
-Category: Block  
+
+### Category: Block  
 * Cube block  
 * Triangular block  
 * Cylinder block  
 
-### Name list of known objects (dining room, kitchen and living room)
-* Object 1  
-* Object 2  
+## Name list of known objects (dining room, kitchen and living room)
+* Object 1
+* Object 2
+* Object 3
