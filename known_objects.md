@@ -28,7 +28,7 @@
 15. Cylinder block  
 
 ## Name list of known objects (dining room, kitchen and living room)
-1. Sponge
+1. Wooden Bowl
 2. Brown pail
 3. Mixed nuts
 4. Blue cup
