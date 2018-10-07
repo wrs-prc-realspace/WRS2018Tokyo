@@ -15,6 +15,3 @@ https://github.com/wrs-prc-realspace/RuleBook2018
 
 ### Known Objects  
 https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/known_objects.md
-
-### Area Maps and Locations  
-(url)
