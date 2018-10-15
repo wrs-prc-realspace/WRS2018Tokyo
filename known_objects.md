@@ -38,7 +38,7 @@
 8. Watering can
 9. Flashlight
 10. Blue fork
-11. Green fork
+11. Green spoon
 12. Gray knife
 13. Pink biscuits
 14. Yellow clock
