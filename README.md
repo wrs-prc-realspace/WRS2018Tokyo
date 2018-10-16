@@ -6,6 +6,8 @@ https://github.com/wrs-prc-realspace/RuleBook2018
 ### Schedules  
 * Oct 15-16 Team Setup
 * Oct 17 "Tidy Up Here" Trial 1
+** Schedule: https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere-schedule17wed.pdf
+** Referee: https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere-referee17wed.pdf
 * Oct 18 "Tidy Up Here" Trial 2
 * Oct 19 (AM) "Bring Me" Trial 1, (PM) "Bring Me" Trial 2
 * Oct 20 Final
@@ -20,5 +22,5 @@ https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/known_objects.md
 https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/unknown_objects.md
 
 ### Tidy Up Here
-* Floor plan - https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere-floor_plan.pdf
-* Locations - https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere_locations.md
+* Floor plan: https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere-floor_plan.pdf
+* Locations: https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere_locations.md
