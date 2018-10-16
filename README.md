@@ -21,5 +21,4 @@ https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/unknown_objects.md
 
 ### Tidy Up Here
 * Floor plan - https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere-floor_plan.pdf
-
 * Locations - https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/TidyUpHere_locations.md
