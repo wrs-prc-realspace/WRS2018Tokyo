@@ -4,7 +4,8 @@
 
 ## Location in which the object should be placed  
 
-| 1. Wooden Bowl | Food cabinet |  
+| 1. Wooden Bowl | Food cabinet |
+| --- | --- |
 | 2. Brown pail | wall shelf |
 
 3. Mixed nuts
