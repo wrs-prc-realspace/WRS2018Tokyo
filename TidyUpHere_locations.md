@@ -4,8 +4,8 @@
 
 ## Location in which the object should be placed  
 | 1. Wooden Bowl | Food cabinet |  
+| 2. Brown pail | wall shelf |
 
-2. Brown pail
 3. Mixed nuts
 4. Blue cup
 5. Pink cup
