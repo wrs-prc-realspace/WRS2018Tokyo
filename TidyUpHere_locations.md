@@ -1,9 +1,10 @@
-# WRS Partner Robot Challenge 2018 Tokyo
+# WRS Partner Robot Challenge 2018 Tokyo  
 
-## Tidy Up Here
+## Tidy Up Here  
 
-## Location in which the object should be placed
-| 1. Wooden Bowl | Food cabinet |
+## Location in which the object should be placed  
+| 1. Wooden Bowl | Food cabinet |  
+
 2. Brown pail
 3. Mixed nuts
 4. Blue cup
