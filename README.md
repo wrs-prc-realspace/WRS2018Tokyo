@@ -1,7 +1,7 @@
 # WRS Partner Robot Challenge (Real Space) 2018 Tokyo
 
 ### Rulebook 2018  
-https://github.com/wrs-prc-realspace/RuleBook2018
+* Rulebook: https://github.com/wrs-prc-realspace/RuleBook2018
 * Score sheets: https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/WRS_PartnerRobotChallenge_RealSpace_2018_ScoreSheets.pdf 
 
 ### Schedules  
